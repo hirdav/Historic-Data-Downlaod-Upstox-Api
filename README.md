@@ -62,9 +62,6 @@ Use the Upstox API to retrieve historical data for further analysis and storage.
 
 Save the extracted data to a CSV file for future analysis:
 
-```python
-df.to_csv('banknifty_Sep12.csv', index=False)
-```
 
 ## 📚 Documentation
 - [Upstox API Documentation](https://upstox.com/developer/api/v2/) - Detailed documentation for API usage.
