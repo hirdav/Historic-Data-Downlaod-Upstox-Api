@@ -34,7 +34,7 @@ This project uses the **Upstox API** to extract  option chain data, retrieve his
 
 ### 1. Authorization and Token Generation
 
-Authenticate using the Upstox API by generating an access token: go to the file Accec token generation
+Authenticate using the Upstox API by generating an access token: go to the file Access token generation
 
 # Go to the python file Access token Generation 
 
